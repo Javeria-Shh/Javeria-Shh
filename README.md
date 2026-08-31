@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Javeria Shah</h1>
+<h3 align="center">Final-year Software Engineering Student | MERN Stack Developer</h3>
 
-<!--
-**Javeria-Shh/Javeria-Shh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Sargodha%2C%20Pakistan-1B3A5C?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/CGPA-3.5-1B3A5C?style=flat-square" alt="cgpa"/>
+  <img src="https://img.shields.io/badge/Open%20to-Web%20Dev%20Internships-3E7CB1?style=flat-square" alt="open to work"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Final-year **BS Software Engineering** student at **University of Sargodha**
+- 💻 Passionate about **full-stack web development**, **web security**, and **applied ML/AI**
+- 🌱 Currently sharpening my skills in the **MERN stack** and secure authentication systems
+- 🔍 Looking for a **Web Development Internship** to apply my project experience in a real-world setting
+- 📫 Reach me at: **javeriashh7@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+**Tools & Concepts**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+**[SmartService Marketplace](https://github.com/Javeria-Shh/smartservice-marketplace)**
+Full-stack service marketplace platform with JWT authentication, bcrypt password hashing, email verification, and Role-Based Access Control (RBAC). Tested with Jest (unit + E2E) and deployed across Railway, Netlify, Vercel, and Cloudflare Pages.
+`MERN Stack` `JWT` `bcrypt` `Jest`
+
+**[Sentiment Analysis Web App](https://github.com/Javeria-Shh/sentiment-analysis-app)**
+Single-page application integrating a third-party sentiment analysis API through a custom Node/Express backend, with a responsive Vanilla JS frontend.
+`Node.js` `Express` `Vanilla JS` `REST API`
+
+**[Real vs AI-Generated Image Classifier](https://github.com/Javeria-Shh/image-classifier)**
+Image classification model using Naive Bayes (GaussianNB) to distinguish real images from AI-generated ones, trained and evaluated on a Kaggle dataset.
+`Python` `GaussianNB` `Kaggle`
+
+---
+
+### 🎓 Certifications
+- E-Commerce — HEC Certificate Program
+- Digital Marketing — HEC Certificate Program
+- Software Product Management — HEC Certificate Program
+- Basics of Management
+- JavaScript
+- AI Assistants for Project Managers
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javeria-shah123&style=flat-square&color=1B3A5C" alt="profile views"/>
+</p>
