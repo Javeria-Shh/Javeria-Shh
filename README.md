@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javeria Shah</h1>
+<h1 align="center">Hi , I'm Javeria Shah</h1>
 <h3 align="center">Final-year Software Engineering Student | MERN Stack Developer</h3>
 
 <p align="center">
@@ -9,17 +9,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Final-year **BS Software Engineering** student at **University of Sargodha**
+- 🎓 Final-year **BS Software Engineering** student at **University of Sargodha** (2027)
 - 💻 Passionate about **full-stack web development**, **web security**, and **applied ML/AI**
 - 🌱 Currently sharpening my skills in the **MERN stack** and secure authentication systems
-- 🔍 Looking for a **Web Development Internship** to apply my project experience in a real-world setting
 - 📫 Reach me at: **javeriashh7@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p>
@@ -51,7 +50,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 **[SmartService Marketplace](https://github.com/Javeria-Shh/smartservice-marketplace)**
 Full-stack service marketplace platform with JWT authentication, bcrypt password hashing, email verification, and Role-Based Access Control (RBAC). Tested with Jest (unit + E2E) and deployed across Railway, Netlify, Vercel, and Cloudflare Pages.
@@ -67,7 +66,7 @@ Image classification model using Naive Bayes (GaussianNB) to distinguish real im
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 - E-Commerce — HEC Certificate Program
 - Digital Marketing — HEC Certificate Program
 - Software Product Management — HEC Certificate Program
