@@ -5,10 +5,10 @@
 
 ###  About Me
 
-- 🎓 Final-year **BS Software Engineering** student at **University of Sargodha** (2027)
-- 💻 Passionate about **full-stack web development**, **web security**, and **applied ML/AI**
-- 🌱 Currently sharpening my skills in the **MERN stack** and secure authentication systems
-- 📫 Reach me at: **javeriashh7@gmail.com**
+- Final-year **BS Software Engineering** student at **University of Sargodha** (2027)
+- Passionate about **full-stack web development**, **web security**, and **applied ML/AI**
+- Currently sharpening my skills in the **MERN stack** and secure authentication systems
+- Reach me at: **javeriashh7@gmail.com**
 
 ---
 
