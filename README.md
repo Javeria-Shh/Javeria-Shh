@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Sargodha%2C%20Pakistan-1B3A5C?style=flat-square" alt="location"/>
-  <img src="https://img.shields.io/badge/CGPA-3.5-1B3A5C?style=flat-square" alt="cgpa"/>
+
   <img src="https://img.shields.io/badge/Open%20to-Web%20Dev%20Internships-3E7CB1?style=flat-square" alt="open to work"/>
 </p>
 
@@ -23,7 +23,7 @@
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ 
 </p>
 
 **Frameworks & Libraries**
