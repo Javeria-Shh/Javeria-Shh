@@ -1,13 +1,7 @@
 <h1 align="center">Hi , I'm Javeria Shah</h1>
 <h3 align="center">Final-year Software Engineering Student | MERN Stack Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Sargodha%2C%20Pakistan-1B3A5C?style=flat-square" alt="location"/>
 
-  <img src="https://img.shields.io/badge/Open%20to-Web%20Dev%20Internships-3E7CB1?style=flat-square" alt="open to work"/>
-</p>
-
----
 
 ###  About Me
 
@@ -76,6 +70,4 @@ Image classification model using Naive Bayes (GaussianNB) to distinguish real im
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javeria-shah123&style=flat-square&color=1B3A5C" alt="profile views"/>
-</p>
+
